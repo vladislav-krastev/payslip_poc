@@ -1,0 +1,32 @@
+This is a GUES-timation, as I'm not be able to give even an approximate Estimation
+before getting answers to most (hopefully all) of the questions below:
+  - 2 to 10 workdays per POC
+
+
+QUESTIONS:
+  - Is there something/someone I can reference for biz-side explanations on the general expected flow/meaning of things?
+
+  - What changes per each client:
+    - amount of input ?
+    - format of input ?
+    - type of input (e.g. not only JSON and CSV/Excel) ?
+    - meaning of input (what the different fields/columns represent, even if they share the same name and data-type across clients) ?
+
+  - Is there a way to get details for the input:
+    - how, when, what and based on what conditions produce the input and what exactly (most of the) stuff in it mean?
+    - would the answer to any of the above also change per client?
+
+  - How much input validation is needed?
+  - Who/what and how determines the validation rules?
+  - Do they change per client?
+  - Is there something/someone I can reference for biz-side explanations (if it's somehting more involved or not layman-obvious)?
+
+  - Filter conditions (e.g. how to choose the correct 'Bank Account'
+    for a specific employee for a specific company in a specific country when there are duplicates)?
+  - How complicated (heavy in biz-logic) are they?
+  - Is there something/someone I can reference for biz-side explanations (if it's somehting more involved or not layman-obvious)?
+
+  - Do we test the output?
+  - How do we test?
+  - Do we manually "create" (whatever it would mean) the tests?
+  - Would the tests for each client be separate?
